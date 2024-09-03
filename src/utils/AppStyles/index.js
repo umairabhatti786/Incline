@@ -1,12 +1,6 @@
 import { StyleSheet } from "react-native";
-import { colors } from "../colors";
 
 export const appStyles = StyleSheet.create({
-  coontainerStyle: {
-    flex: 1,
-    justifyContent: "center",
-    alignItems: "center",
-  },
   row: {
     flexDirection: "row",
     alignItems: "center",
@@ -17,20 +11,11 @@ export const appStyles = StyleSheet.create({
     justifyContent: "space-between",
   },
 
-  mainContainer: {
+  mainFlex: {
     flex: 1,
-    backgroundColor: colors.white,
-    paddingHorizontal: 20,
   },
   main: {
-    flex: 1,
-    backgroundColor: colors.black,
+    width: "100%",
+    height: "100%",
   },
-  Container: {
-    flex: 1,
-  },
-  main:{
-    width:"100%",
-    height:"100%"
-  }
 });

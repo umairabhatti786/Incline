@@ -1,16 +1,8 @@
 export const font = {
-    DarkerGrotesque_Bold: "DarkerGrotesque-Bold",
-    DarkerGrotesque_ExtraBold: "DarkerGrotesque-ExtraBold",
-    DarkerGrotesque_Medium: "DarkerGrotesque-Medium",
-    DarkerGrotesque_Regular: "DarkerGrotesque-Regular",
-    DarkerGrotesque_SemiBold:"DarkerGrotesque-SemiBold",
-    Inter_Black:"Inter-Black",
-    Inter_Medium:"Inter-Medium",
-    Inter_Regular:"Inter-Regular",
-    Inter_SemiBold:"Inter-SemiBold",
-
-    
-
-
-  
-}
+  Manrope_Bold: "Manrope-Bold",
+  Manrope_ExtraBold: "Manrope-ExtraBold",
+  Manrope_Light: "Manrope-Light",
+  Manrope_Medium: "Manrope-Medium",
+  Manrope_Regular: "Manrope-Regular",
+  Manrope_SemiBold: "Manrope-SemiBold",
+};

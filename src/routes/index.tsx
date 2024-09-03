@@ -11,7 +11,6 @@ const RootNavigator = () => {
   const Stack = createStackNavigator();
 
   useEffect(() => {
-    console.log("SpalsjRunning");
     const timer = setTimeout(() => {
     SplashScreen.hide(); // Hide splash screen after two seconds
     }, 2000);

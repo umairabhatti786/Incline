@@ -24,7 +24,7 @@ const CustomText = ({ color, size, fontFam, text, style, lineHeight,numberOfLine
                     color: color || colors.black,
                     fontSize: size || 10,
                     fontWeight: fontWeight ||"500",
-                    fontFamily: fontFam || font.DarkerGrotesque_Regular,
+                    fontFamily: fontFam || font.Manrope_Regular,
                     textDecorationLine:textDecorationLine,
                 
                     
